@@ -2,7 +2,9 @@
     * [学习计划](md/xuexijihua.md)
 * 知识储备
   * Python
-    * [数据类型](md/Python/python_type.md)
+    * [数据类型](md/Python/序列结构.md)
+    * [闭包函数](md/Python/闭包函数.md)
+    * [装饰器](md/Python/装饰器.md)
   * ...
     * [02_ledBlink](md/02_ledBlink.md)
     * [03_easyio_led](md/03_easyio_led.md)
